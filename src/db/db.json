@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Lindan Maulana",
+      "address": "Muncangela",
+      "biodata": {
+        "born": "",
+        "gender": "",
+        "telepon": ""
+      }
+    },
+    {
+      "id": "eb02",
+      "name": "Lindan",
+      "address": "Muncangela",
+      "biodata": {
+        "born": "Gunung Sindur",
+        "gender": "others",
+        "telepon": "097723855068"
+      }
+    }
+  ]
+}
